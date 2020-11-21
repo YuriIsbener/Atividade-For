@@ -1,0 +1,13 @@
+C:\Users\yuris\Desktop\Atividade\bin\Debug\netcoreapp3.1\Atividade.exe
+C:\Users\yuris\Desktop\Atividade\bin\Debug\netcoreapp3.1\Atividade.deps.json
+C:\Users\yuris\Desktop\Atividade\bin\Debug\netcoreapp3.1\Atividade.runtimeconfig.json
+C:\Users\yuris\Desktop\Atividade\bin\Debug\netcoreapp3.1\Atividade.runtimeconfig.dev.json
+C:\Users\yuris\Desktop\Atividade\bin\Debug\netcoreapp3.1\Atividade.dll
+C:\Users\yuris\Desktop\Atividade\bin\Debug\netcoreapp3.1\Atividade.pdb
+C:\Users\yuris\Desktop\Atividade\obj\Debug\netcoreapp3.1\Atividade.csprojAssemblyReference.cache
+C:\Users\yuris\Desktop\Atividade\obj\Debug\netcoreapp3.1\Atividade.AssemblyInfoInputs.cache
+C:\Users\yuris\Desktop\Atividade\obj\Debug\netcoreapp3.1\Atividade.AssemblyInfo.cs
+C:\Users\yuris\Desktop\Atividade\obj\Debug\netcoreapp3.1\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\yuris\Desktop\Atividade\obj\Debug\netcoreapp3.1\Atividade.dll
+C:\Users\yuris\Desktop\Atividade\obj\Debug\netcoreapp3.1\Atividade.pdb
+C:\Users\yuris\Desktop\Atividade\obj\Debug\netcoreapp3.1\Atividade.genruntimeconfig.cache
